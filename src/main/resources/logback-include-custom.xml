@@ -1,0 +1,4 @@
+<included>
+	<logger name="com.sample.wishlistDemo" level="DEBUG" />
+	<logger name="com.sample.service" level="DEBUG" />
+</included>

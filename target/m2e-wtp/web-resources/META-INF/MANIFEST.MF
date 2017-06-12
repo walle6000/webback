@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: wishlistDemo
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: yaas
+Implementation-Vendor-Id: com.sample.wishlistDemo
+Build-Time: Mon Jun 12 2017 04:06:983 UTC +0000
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://yaas.io/wishlistDemo
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: SAP SE
+
